@@ -7,8 +7,8 @@
 This portfolio includes:
 - 🌐 **About Me** – A short introduction to who I am
 - 💼 **Projects** – Links and descriptions of projects I've built
-  - [To-Do List App](https://github.com/viviancastelino/todo-app) – A simple task manager using HTML/CSS/JS
-  - [Weather App](https://github.com/viviancastelino/weather-app) – A live weather checker using OpenWeatherMap API
+  - [To-Do List App](https://github.com/vivian-castelino/todo-app) – A simple task manager using HTML/CSS/JS
+  - [Weather App](https://github.com/vivian-castelino/weather-app) – A live weather checker using OpenWeatherMap API
 - 📫 **Contact Info** – How to reach out
 
  🛠️ Tech Stack
