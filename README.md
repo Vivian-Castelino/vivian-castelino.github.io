@@ -1,7 +1,7 @@
 # Vivian Castelino – Aspiring Web Developer
 
 
-Welcome to my personal web developer portfolio! I'm an aspiring web developer with a strong interest in creating responsive, user-friendly websites using modern web technologies like HTML, CSS, JavaScript, and Angular.
+ I'm an aspiring web developer with a strong interest in creating responsive, user-friendly websites using modern web technologies like HTML, CSS, JavaScript, and Angular.
 
  🚀 What You'll Find Here
 
