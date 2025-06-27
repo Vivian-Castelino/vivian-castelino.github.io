@@ -6,7 +6,7 @@
 - 💼 **Projects** – Links and descriptions of projects I've built
   - [To-Do List App](https://github.com/vivian-castelino/todo-app) – A simple task manager using HTML/CSS/JS
   - [Weather App](https://github.com/vivian-castelino/weather-app) – A live weather checker using OpenWeatherMap API
-  - [Carbon Footprint Calculator]((https://github.com/vivian-castelino/Carbon-footprint-calculator) – A carbon footprint calculator that helps users calculate their carbon footprint
+  - [Carbon Footprint Calculator](https://github.com/vivian-castelino/Carbon-footprint-calculator) – A carbon footprint calculator that helps users calculate their carbon footprint
   
 
  🛠️ Tech Stack
