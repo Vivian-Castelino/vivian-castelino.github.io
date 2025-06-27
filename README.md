@@ -1,5 +1,4 @@
-# Vivian Castelino – Aspiring Web Developer
-
+# Hi, I'm Vivian Castelino 
 
  I'm an aspiring web developer with a strong interest in creating responsive, user-friendly websites using modern web technologies like HTML, CSS, JavaScript, and Angular.
 
