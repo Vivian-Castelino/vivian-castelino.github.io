@@ -2,14 +2,12 @@
 
  I'm an aspiring web developer with a strong interest in creating responsive, user-friendly websites using modern web technologies like HTML, CSS, JavaScript, and Angular.
 
- 🚀 What You'll Find Here
-
-This portfolio includes:
-- 🌐 **About Me** – A short introduction to who I am
+ 
 - 💼 **Projects** – Links and descriptions of projects I've built
   - [To-Do List App](https://github.com/vivian-castelino/todo-app) – A simple task manager using HTML/CSS/JS
   - [Weather App](https://github.com/vivian-castelino/weather-app) – A live weather checker using OpenWeatherMap API
-- 📫 **Contact Info** – How to reach out
+  - [Carbon Footprint Calculator]((https://github.com/vivian-castelino/Carbon-footprint-calculator) – A carbon footprint calculator that helps users calculate their carbon footprint
+  
 
  🛠️ Tech Stack
 
